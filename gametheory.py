@@ -46,6 +46,7 @@ def format_nash_equilibria(nash_equilibria, democratic_strategies, republican_st
         formatted_output += "\n"
     return formatted_output
 
+# Function to calculate the dominant strategies
 def find_dominant_strategies(payoff_matrix):
     dominant_strategies = {'Democratic': None, 'Republican': None}
 
@@ -103,7 +104,7 @@ for state in education_data['State'].unique():
     nash_equilibria_content += formatted_equilibria
     
     # Calculate and write dominant strategies
-    # You can comment out this section if not needed
+    # We can comment this part out if it's not needed (there are no dominant strategies)
     dominant_strategies = find_dominant_strategies(payoff_matrix)
     strategies_content += f"State: {state}\n"
     strategies_content += f"  Dominant Strategy for Democratic Player: {dominant_strategies['Democratic']}\n"
