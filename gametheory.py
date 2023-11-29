@@ -87,5 +87,3 @@ def format_nash_equilibria(nash_equilibria, democratic_strategies, republican_st
 formatted_output = format_nash_equilibria(nash_equilibria, democratic_strategies, republican_strategies)
 
 print(formatted_output)
-
-
