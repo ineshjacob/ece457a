@@ -1,0 +1,80 @@
+State: CO
+Payoff Matrix:
+                                 Tax Cuts  Leaving Paris Climate Agreement  Abortion should be illegal  Privatized Healthcare
+Taxing the Rich                  0.405883                             0.00                    0.000000               0.000000
+Joining Paris Climate Agreement  0.000000                             0.95                    0.000000               0.000000
+Abortion should be Legal         0.000000                             0.00                    0.432078               0.000000
+Affordable Healthcare            0.000000                             0.00                    0.000000               0.444153
+
+State: FL
+Payoff Matrix:
+                                 Tax Cuts  Leaving Paris Climate Agreement  Abortion should be illegal  Privatized Healthcare
+Taxing the Rich                      0.95                         0.000000                        0.00                   0.00
+Joining Paris Climate Agreement      0.00                         0.737455                        0.00                   0.00
+Abortion should be Legal             0.00                         0.000000                        0.95                   0.00
+Affordable Healthcare                0.00                         0.000000                        0.00                   0.75
+
+State: GA
+Payoff Matrix:
+                                 Tax Cuts  Leaving Paris Climate Agreement  Abortion should be illegal  Privatized Healthcare
+Taxing the Rich                  0.700934                         0.000000                        0.00               0.000000
+Joining Paris Climate Agreement  0.000000                         0.750359                        0.00               0.000000
+Abortion should be Legal         0.000000                         0.000000                        0.75               0.000000
+Affordable Healthcare            0.000000                         0.000000                        0.00               0.855316
+
+State: IA
+Payoff Matrix:
+                                 Tax Cuts  Leaving Paris Climate Agreement  Abortion should be illegal  Privatized Healthcare
+Taxing the Rich                  0.164826                          0.00000                    0.000000                   0.00
+Joining Paris Climate Agreement  0.000000                          0.27907                    0.000000                   0.00
+Abortion should be Legal         0.000000                          0.00000                    0.081148                   0.00
+Affordable Healthcare            0.000000                          0.00000                    0.000000                   0.95
+
+State: LA
+Payoff Matrix:
+                                 Tax Cuts  Leaving Paris Climate Agreement  Abortion should be illegal  Privatized Healthcare
+Taxing the Rich                    0.2217                             0.00                        0.00               0.000000
+Joining Paris Climate Agreement    0.0000                             0.05                        0.00               0.000000
+Abortion should be Legal           0.0000                             0.00                        0.25               0.000000
+Affordable Healthcare              0.0000                             0.00                        0.00               0.069319
+
+State: MI
+Payoff Matrix:
+                                 Tax Cuts  Leaving Paris Climate Agreement  Abortion should be illegal  Privatized Healthcare
+Taxing the Rich                  0.576774                          0.00000                    0.000000                   0.00
+Joining Paris Climate Agreement  0.000000                          0.26172                    0.000000                   0.00
+Abortion should be Legal         0.000000                          0.00000                    0.773288                   0.00
+Affordable Healthcare            0.000000                          0.00000                    0.000000                   0.25
+
+State: NM
+Payoff Matrix:
+                                 Tax Cuts  Leaving Paris Climate Agreement  Abortion should be illegal  Privatized Healthcare
+Taxing the Rich                      0.05                         0.000000                    0.000000               0.000000
+Joining Paris Climate Agreement      0.00                         0.174853                    0.000000               0.000000
+Abortion should be Legal             0.00                         0.000000                    0.545091               0.000000
+Affordable Healthcare                0.00                         0.000000                    0.000000               0.400702
+
+State: OH
+Payoff Matrix:
+                                 Tax Cuts  Leaving Paris Climate Agreement  Abortion should be illegal  Privatized Healthcare
+Taxing the Rich                  0.755832                         0.000000                    0.000000                   0.00
+Joining Paris Climate Agreement  0.000000                         0.249251                    0.000000                   0.00
+Abortion should be Legal         0.000000                         0.000000                    0.377283                   0.00
+Affordable Healthcare            0.000000                         0.000000                    0.000000                   0.05
+
+State: PA
+Payoff Matrix:
+                                 Tax Cuts  Leaving Paris Climate Agreement  Abortion should be illegal  Privatized Healthcare
+Taxing the Rich                  0.797257                         0.000000                    0.000000               0.000000
+Joining Paris Climate Agreement  0.000000                         0.762915                    0.000000               0.000000
+Abortion should be Legal         0.000000                         0.000000                    0.650114               0.000000
+Affordable Healthcare            0.000000                         0.000000                    0.000000               0.469174
+
+State: WI
+Payoff Matrix:
+                                 Tax Cuts  Leaving Paris Climate Agreement  Abortion should be illegal  Privatized Healthcare
+Taxing the Rich                  0.337286                          0.00000                        0.00               0.000000
+Joining Paris Climate Agreement  0.000000                          0.51562                        0.00               0.000000
+Abortion should be Legal         0.000000                          0.00000                        0.05               0.000000
+Affordable Healthcare            0.000000                          0.00000                        0.00               0.497566
+
