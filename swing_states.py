@@ -1,7 +1,8 @@
 import pandas as pd
 import json
+import os
 
-presidential_data = pd.read_csv("raw_data/1976-2020-president.csv")
+presidential_data = pd.read_csv(os.path.join(os.path.dirname(os.path.abspath(__file__)),"raw_data/1976-2020-president.csv"))
 
 
 def calculate_margin_of_victory(group):
@@ -53,4 +54,6 @@ sorted_states = sorted(
 
 top_swing_states = sorted_states[:10]
 print(json.dumps(top_swing_states, indent=2))
+with open(os.path.join(os.path.dirname(os.path.abspath(__file__)),"processed_data/swing_states.json"),'w') as f:
+    json.dump(top_swing_states,f)
 #git test 
