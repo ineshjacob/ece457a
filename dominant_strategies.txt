@@ -1,0 +1,40 @@
+State: CO
+  Dominant Strategy for Democratic Player: None
+  Dominant Strategy for Republican Player: None
+
+State: FL
+  Dominant Strategy for Democratic Player: None
+  Dominant Strategy for Republican Player: None
+
+State: GA
+  Dominant Strategy for Democratic Player: None
+  Dominant Strategy for Republican Player: None
+
+State: IA
+  Dominant Strategy for Democratic Player: None
+  Dominant Strategy for Republican Player: None
+
+State: LA
+  Dominant Strategy for Democratic Player: None
+  Dominant Strategy for Republican Player: None
+
+State: MI
+  Dominant Strategy for Democratic Player: None
+  Dominant Strategy for Republican Player: None
+
+State: NM
+  Dominant Strategy for Democratic Player: None
+  Dominant Strategy for Republican Player: None
+
+State: OH
+  Dominant Strategy for Democratic Player: None
+  Dominant Strategy for Republican Player: None
+
+State: PA
+  Dominant Strategy for Democratic Player: None
+  Dominant Strategy for Republican Player: None
+
+State: WI
+  Dominant Strategy for Democratic Player: None
+  Dominant Strategy for Republican Player: None
+
