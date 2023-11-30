@@ -1,8 +1,8 @@
 State: CO
 Democratic Strategies: 
-  Taxing the Rich: 1.00
+  Abortion should be Legal: 1.00
 Republican Strategies: 
-  Tax Cuts: 1.00
+  Abortion should be illegal: 1.00
 
 Democratic Strategies: 
   Joining Paris Climate Agreement: 1.00
@@ -10,9 +10,9 @@ Republican Strategies:
   Leaving Paris Climate Agreement: 1.00
 
 Democratic Strategies: 
-  Abortion should be Legal: 1.00
+  Taxing the Rich: 1.00
 Republican Strategies: 
-  Abortion should be illegal: 1.00
+  Tax Cuts: 1.00
 
 Democratic Strategies: 
   Affordable Healthcare: 1.00
@@ -20,39 +20,18 @@ Republican Strategies:
   Privatized Healthcare: 1.00
 
 Democratic Strategies: 
-  Taxing the Rich: 0.70
-  Joining Paris Climate Agreement: 0.30
-Republican Strategies: 
-  Tax Cuts: 0.70
-  Leaving Paris Climate Agreement: 0.30
-
-Democratic Strategies: 
-  Taxing the Rich: 0.52
-  Abortion should be Legal: 0.48
-Republican Strategies: 
-  Tax Cuts: 0.52
-  Abortion should be illegal: 0.48
-
-Democratic Strategies: 
-  Taxing the Rich: 0.52
-  Affordable Healthcare: 0.48
-Republican Strategies: 
-  Tax Cuts: 0.52
-  Privatized Healthcare: 0.48
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.31
   Abortion should be Legal: 0.69
+  Joining Paris Climate Agreement: 0.31
 Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.31
   Abortion should be illegal: 0.69
+  Leaving Paris Climate Agreement: 0.31
 
 Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.32
-  Affordable Healthcare: 0.68
+  Abortion should be Legal: 0.48
+  Taxing the Rich: 0.52
 Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.32
-  Privatized Healthcare: 0.68
+  Abortion should be illegal: 0.48
+  Tax Cuts: 0.52
 
 Democratic Strategies: 
   Abortion should be Legal: 0.51
@@ -62,57 +41,78 @@ Republican Strategies:
   Privatized Healthcare: 0.49
 
 Democratic Strategies: 
-  Taxing the Rich: 0.42
-  Joining Paris Climate Agreement: 0.18
+  Joining Paris Climate Agreement: 0.30
+  Taxing the Rich: 0.70
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.30
+  Tax Cuts: 0.70
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 0.32
+  Affordable Healthcare: 0.68
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.32
+  Privatized Healthcare: 0.68
+
+Democratic Strategies: 
+  Taxing the Rich: 0.52
+  Affordable Healthcare: 0.48
+Republican Strategies: 
+  Tax Cuts: 0.52
+  Privatized Healthcare: 0.48
+
+Democratic Strategies: 
   Abortion should be Legal: 0.40
-Republican Strategies: 
-  Tax Cuts: 0.42
-  Leaving Paris Climate Agreement: 0.18
-  Abortion should be illegal: 0.40
-
-Democratic Strategies: 
-  Taxing the Rich: 0.43
   Joining Paris Climate Agreement: 0.18
-  Affordable Healthcare: 0.39
+  Taxing the Rich: 0.42
 Republican Strategies: 
-  Tax Cuts: 0.43
+  Abortion should be illegal: 0.40
   Leaving Paris Climate Agreement: 0.18
-  Privatized Healthcare: 0.39
+  Tax Cuts: 0.42
 
 Democratic Strategies: 
-  Taxing the Rich: 0.35
-  Abortion should be Legal: 0.33
-  Affordable Healthcare: 0.32
-Republican Strategies: 
-  Tax Cuts: 0.35
-  Abortion should be illegal: 0.33
-  Privatized Healthcare: 0.32
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.19
   Abortion should be Legal: 0.41
+  Joining Paris Climate Agreement: 0.19
   Affordable Healthcare: 0.40
 Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.19
   Abortion should be illegal: 0.41
+  Leaving Paris Climate Agreement: 0.19
   Privatized Healthcare: 0.40
 
 Democratic Strategies: 
-  Taxing the Rich: 0.30
-  Joining Paris Climate Agreement: 0.13
+  Abortion should be Legal: 0.33
+  Taxing the Rich: 0.35
+  Affordable Healthcare: 0.32
+Republican Strategies: 
+  Abortion should be illegal: 0.33
+  Tax Cuts: 0.35
+  Privatized Healthcare: 0.32
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 0.18
+  Taxing the Rich: 0.43
+  Affordable Healthcare: 0.39
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.18
+  Tax Cuts: 0.43
+  Privatized Healthcare: 0.39
+
+Democratic Strategies: 
   Abortion should be Legal: 0.29
+  Joining Paris Climate Agreement: 0.13
+  Taxing the Rich: 0.30
   Affordable Healthcare: 0.28
 Republican Strategies: 
-  Tax Cuts: 0.30
-  Leaving Paris Climate Agreement: 0.13
   Abortion should be illegal: 0.29
+  Leaving Paris Climate Agreement: 0.13
+  Tax Cuts: 0.30
   Privatized Healthcare: 0.28
 
 State: FL
 Democratic Strategies: 
-  Taxing the Rich: 1.00
+  Abortion should be Legal: 1.00
 Republican Strategies: 
-  Tax Cuts: 1.00
+  Abortion should be illegal: 1.00
 
 Democratic Strategies: 
   Joining Paris Climate Agreement: 1.00
@@ -120,9 +120,9 @@ Republican Strategies:
   Leaving Paris Climate Agreement: 1.00
 
 Democratic Strategies: 
-  Abortion should be Legal: 1.00
+  Taxing the Rich: 1.00
 Republican Strategies: 
-  Abortion should be illegal: 1.00
+  Tax Cuts: 1.00
 
 Democratic Strategies: 
   Affordable Healthcare: 1.00
@@ -130,32 +130,32 @@ Republican Strategies:
   Privatized Healthcare: 1.00
 
 Democratic Strategies: 
-  Taxing the Rich: 0.44
+  Abortion should be Legal: 0.44
   Joining Paris Climate Agreement: 0.56
 Republican Strategies: 
-  Tax Cuts: 0.44
+  Abortion should be illegal: 0.44
   Leaving Paris Climate Agreement: 0.56
 
 Democratic Strategies: 
-  Taxing the Rich: 0.50
   Abortion should be Legal: 0.50
+  Taxing the Rich: 0.50
 Republican Strategies: 
-  Tax Cuts: 0.50
   Abortion should be illegal: 0.50
+  Tax Cuts: 0.50
 
 Democratic Strategies: 
-  Taxing the Rich: 0.44
+  Abortion should be Legal: 0.44
   Affordable Healthcare: 0.56
 Republican Strategies: 
-  Tax Cuts: 0.44
+  Abortion should be illegal: 0.44
   Privatized Healthcare: 0.56
 
 Democratic Strategies: 
   Joining Paris Climate Agreement: 0.56
-  Abortion should be Legal: 0.44
+  Taxing the Rich: 0.44
 Republican Strategies: 
   Leaving Paris Climate Agreement: 0.56
-  Abortion should be illegal: 0.44
+  Tax Cuts: 0.44
 
 Democratic Strategies: 
   Joining Paris Climate Agreement: 0.50
@@ -165,64 +165,64 @@ Republican Strategies:
   Privatized Healthcare: 0.50
 
 Democratic Strategies: 
-  Abortion should be Legal: 0.44
+  Taxing the Rich: 0.44
   Affordable Healthcare: 0.56
 Republican Strategies: 
-  Abortion should be illegal: 0.44
+  Tax Cuts: 0.44
   Privatized Healthcare: 0.56
 
 Democratic Strategies: 
-  Taxing the Rich: 0.30
-  Joining Paris Climate Agreement: 0.39
   Abortion should be Legal: 0.30
+  Joining Paris Climate Agreement: 0.39
+  Taxing the Rich: 0.30
 Republican Strategies: 
-  Tax Cuts: 0.30
-  Leaving Paris Climate Agreement: 0.39
   Abortion should be illegal: 0.30
+  Leaving Paris Climate Agreement: 0.39
+  Tax Cuts: 0.30
 
 Democratic Strategies: 
-  Taxing the Rich: 0.28
+  Abortion should be Legal: 0.28
   Joining Paris Climate Agreement: 0.36
   Affordable Healthcare: 0.36
 Republican Strategies: 
-  Tax Cuts: 0.28
+  Abortion should be illegal: 0.28
   Leaving Paris Climate Agreement: 0.36
   Privatized Healthcare: 0.36
 
 Democratic Strategies: 
-  Taxing the Rich: 0.31
   Abortion should be Legal: 0.31
+  Taxing the Rich: 0.31
   Affordable Healthcare: 0.39
 Republican Strategies: 
-  Tax Cuts: 0.31
   Abortion should be illegal: 0.31
+  Tax Cuts: 0.31
   Privatized Healthcare: 0.39
 
 Democratic Strategies: 
   Joining Paris Climate Agreement: 0.36
-  Abortion should be Legal: 0.28
+  Taxing the Rich: 0.28
   Affordable Healthcare: 0.36
 Republican Strategies: 
   Leaving Paris Climate Agreement: 0.36
-  Abortion should be illegal: 0.28
+  Tax Cuts: 0.28
   Privatized Healthcare: 0.36
 
 Democratic Strategies: 
-  Taxing the Rich: 0.22
-  Joining Paris Climate Agreement: 0.28
   Abortion should be Legal: 0.22
+  Joining Paris Climate Agreement: 0.28
+  Taxing the Rich: 0.22
   Affordable Healthcare: 0.28
 Republican Strategies: 
-  Tax Cuts: 0.22
-  Leaving Paris Climate Agreement: 0.28
   Abortion should be illegal: 0.22
+  Leaving Paris Climate Agreement: 0.28
+  Tax Cuts: 0.22
   Privatized Healthcare: 0.28
 
 State: GA
 Democratic Strategies: 
-  Taxing the Rich: 1.00
+  Abortion should be Legal: 1.00
 Republican Strategies: 
-  Tax Cuts: 1.00
+  Abortion should be illegal: 1.00
 
 Democratic Strategies: 
   Joining Paris Climate Agreement: 1.00
@@ -230,9 +230,9 @@ Republican Strategies:
   Leaving Paris Climate Agreement: 1.00
 
 Democratic Strategies: 
-  Abortion should be Legal: 1.00
+  Taxing the Rich: 1.00
 Republican Strategies: 
-  Abortion should be illegal: 1.00
+  Tax Cuts: 1.00
 
 Democratic Strategies: 
   Affordable Healthcare: 1.00
@@ -240,39 +240,18 @@ Republican Strategies:
   Privatized Healthcare: 1.00
 
 Democratic Strategies: 
-  Taxing the Rich: 0.52
-  Joining Paris Climate Agreement: 0.48
-Republican Strategies: 
-  Tax Cuts: 0.52
-  Leaving Paris Climate Agreement: 0.48
-
-Democratic Strategies: 
-  Taxing the Rich: 0.52
-  Abortion should be Legal: 0.48
-Republican Strategies: 
-  Tax Cuts: 0.52
-  Abortion should be illegal: 0.48
-
-Democratic Strategies: 
-  Taxing the Rich: 0.55
-  Affordable Healthcare: 0.45
-Republican Strategies: 
-  Tax Cuts: 0.55
-  Privatized Healthcare: 0.45
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.50
   Abortion should be Legal: 0.50
+  Joining Paris Climate Agreement: 0.50
 Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.50
   Abortion should be illegal: 0.50
+  Leaving Paris Climate Agreement: 0.50
 
 Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.53
-  Affordable Healthcare: 0.47
+  Abortion should be Legal: 0.48
+  Taxing the Rich: 0.52
 Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.53
-  Privatized Healthcare: 0.47
+  Abortion should be illegal: 0.48
+  Tax Cuts: 0.52
 
 Democratic Strategies: 
   Abortion should be Legal: 0.53
@@ -282,57 +261,78 @@ Republican Strategies:
   Privatized Healthcare: 0.47
 
 Democratic Strategies: 
-  Taxing the Rich: 0.35
-  Joining Paris Climate Agreement: 0.33
+  Joining Paris Climate Agreement: 0.48
+  Taxing the Rich: 0.52
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.48
+  Tax Cuts: 0.52
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 0.53
+  Affordable Healthcare: 0.47
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.53
+  Privatized Healthcare: 0.47
+
+Democratic Strategies: 
+  Taxing the Rich: 0.55
+  Affordable Healthcare: 0.45
+Republican Strategies: 
+  Tax Cuts: 0.55
+  Privatized Healthcare: 0.45
+
+Democratic Strategies: 
   Abortion should be Legal: 0.33
+  Joining Paris Climate Agreement: 0.33
+  Taxing the Rich: 0.35
 Republican Strategies: 
-  Tax Cuts: 0.35
-  Leaving Paris Climate Agreement: 0.33
   Abortion should be illegal: 0.33
+  Leaving Paris Climate Agreement: 0.33
+  Tax Cuts: 0.35
 
 Democratic Strategies: 
-  Taxing the Rich: 0.36
-  Joining Paris Climate Agreement: 0.34
-  Affordable Healthcare: 0.30
-Republican Strategies: 
-  Tax Cuts: 0.36
-  Leaving Paris Climate Agreement: 0.34
-  Privatized Healthcare: 0.30
-
-Democratic Strategies: 
-  Taxing the Rich: 0.36
-  Abortion should be Legal: 0.34
-  Affordable Healthcare: 0.30
-Republican Strategies: 
-  Tax Cuts: 0.36
-  Abortion should be illegal: 0.34
-  Privatized Healthcare: 0.30
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.35
   Abortion should be Legal: 0.35
+  Joining Paris Climate Agreement: 0.35
   Affordable Healthcare: 0.30
 Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.35
   Abortion should be illegal: 0.35
+  Leaving Paris Climate Agreement: 0.35
   Privatized Healthcare: 0.30
 
 Democratic Strategies: 
-  Taxing the Rich: 0.27
-  Joining Paris Climate Agreement: 0.25
+  Abortion should be Legal: 0.34
+  Taxing the Rich: 0.36
+  Affordable Healthcare: 0.30
+Republican Strategies: 
+  Abortion should be illegal: 0.34
+  Tax Cuts: 0.36
+  Privatized Healthcare: 0.30
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 0.34
+  Taxing the Rich: 0.36
+  Affordable Healthcare: 0.30
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.34
+  Tax Cuts: 0.36
+  Privatized Healthcare: 0.30
+
+Democratic Strategies: 
   Abortion should be Legal: 0.25
+  Joining Paris Climate Agreement: 0.25
+  Taxing the Rich: 0.27
   Affordable Healthcare: 0.22
 Republican Strategies: 
-  Tax Cuts: 0.27
-  Leaving Paris Climate Agreement: 0.25
   Abortion should be illegal: 0.25
+  Leaving Paris Climate Agreement: 0.25
+  Tax Cuts: 0.27
   Privatized Healthcare: 0.22
 
 State: IA
 Democratic Strategies: 
-  Taxing the Rich: 1.00
+  Abortion should be Legal: 1.00
 Republican Strategies: 
-  Tax Cuts: 1.00
+  Abortion should be illegal: 1.00
 
 Democratic Strategies: 
   Joining Paris Climate Agreement: 1.00
@@ -340,9 +340,9 @@ Republican Strategies:
   Leaving Paris Climate Agreement: 1.00
 
 Democratic Strategies: 
-  Abortion should be Legal: 1.00
+  Taxing the Rich: 1.00
 Republican Strategies: 
-  Abortion should be illegal: 1.00
+  Tax Cuts: 1.00
 
 Democratic Strategies: 
   Affordable Healthcare: 1.00
@@ -350,39 +350,18 @@ Republican Strategies:
   Privatized Healthcare: 1.00
 
 Democratic Strategies: 
-  Taxing the Rich: 0.63
-  Joining Paris Climate Agreement: 0.37
-Republican Strategies: 
-  Tax Cuts: 0.63
-  Leaving Paris Climate Agreement: 0.37
-
-Democratic Strategies: 
-  Taxing the Rich: 0.33
-  Abortion should be Legal: 0.67
-Republican Strategies: 
-  Tax Cuts: 0.33
-  Abortion should be illegal: 0.67
-
-Democratic Strategies: 
-  Taxing the Rich: 0.85
-  Affordable Healthcare: 0.15
-Republican Strategies: 
-  Tax Cuts: 0.85
-  Privatized Healthcare: 0.15
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.23
   Abortion should be Legal: 0.77
+  Joining Paris Climate Agreement: 0.23
 Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.23
   Abortion should be illegal: 0.77
+  Leaving Paris Climate Agreement: 0.23
 
 Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.77
-  Affordable Healthcare: 0.23
+  Abortion should be Legal: 0.67
+  Taxing the Rich: 0.33
 Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.77
-  Privatized Healthcare: 0.23
+  Abortion should be illegal: 0.67
+  Tax Cuts: 0.33
 
 Democratic Strategies: 
   Abortion should be Legal: 0.92
@@ -392,57 +371,78 @@ Republican Strategies:
   Privatized Healthcare: 0.08
 
 Democratic Strategies: 
-  Taxing the Rich: 0.28
-  Joining Paris Climate Agreement: 0.16
+  Joining Paris Climate Agreement: 0.37
+  Taxing the Rich: 0.63
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.37
+  Tax Cuts: 0.63
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 0.77
+  Affordable Healthcare: 0.23
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.77
+  Privatized Healthcare: 0.23
+
+Democratic Strategies: 
+  Taxing the Rich: 0.85
+  Affordable Healthcare: 0.15
+Republican Strategies: 
+  Tax Cuts: 0.85
+  Privatized Healthcare: 0.15
+
+Democratic Strategies: 
   Abortion should be Legal: 0.56
+  Joining Paris Climate Agreement: 0.16
+  Taxing the Rich: 0.28
 Republican Strategies: 
-  Tax Cuts: 0.28
-  Leaving Paris Climate Agreement: 0.16
   Abortion should be illegal: 0.56
+  Leaving Paris Climate Agreement: 0.16
+  Tax Cuts: 0.28
 
 Democratic Strategies: 
-  Taxing the Rich: 0.57
-  Joining Paris Climate Agreement: 0.33
-  Affordable Healthcare: 0.10
-Republican Strategies: 
-  Tax Cuts: 0.57
-  Leaving Paris Climate Agreement: 0.33
-  Privatized Healthcare: 0.10
-
-Democratic Strategies: 
-  Taxing the Rich: 0.31
-  Abortion should be Legal: 0.63
-  Affordable Healthcare: 0.05
-Republican Strategies: 
-  Tax Cuts: 0.31
-  Abortion should be illegal: 0.63
-  Privatized Healthcare: 0.05
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.21
   Abortion should be Legal: 0.73
+  Joining Paris Climate Agreement: 0.21
   Affordable Healthcare: 0.06
 Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.21
   Abortion should be illegal: 0.73
+  Leaving Paris Climate Agreement: 0.21
   Privatized Healthcare: 0.06
 
 Democratic Strategies: 
-  Taxing the Rich: 0.26
-  Joining Paris Climate Agreement: 0.16
-  Abortion should be Legal: 0.54
+  Abortion should be Legal: 0.63
+  Taxing the Rich: 0.31
   Affordable Healthcare: 0.05
 Republican Strategies: 
-  Tax Cuts: 0.26
-  Leaving Paris Climate Agreement: 0.16
+  Abortion should be illegal: 0.63
+  Tax Cuts: 0.31
+  Privatized Healthcare: 0.05
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 0.33
+  Taxing the Rich: 0.57
+  Affordable Healthcare: 0.10
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.33
+  Tax Cuts: 0.57
+  Privatized Healthcare: 0.10
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.54
+  Joining Paris Climate Agreement: 0.16
+  Taxing the Rich: 0.26
+  Affordable Healthcare: 0.05
+Republican Strategies: 
   Abortion should be illegal: 0.54
+  Leaving Paris Climate Agreement: 0.16
+  Tax Cuts: 0.26
   Privatized Healthcare: 0.05
 
 State: LA
 Democratic Strategies: 
-  Taxing the Rich: 1.00
+  Abortion should be Legal: 1.00
 Republican Strategies: 
-  Tax Cuts: 1.00
+  Abortion should be illegal: 1.00
 
 Democratic Strategies: 
   Joining Paris Climate Agreement: 1.00
@@ -450,9 +450,9 @@ Republican Strategies:
   Leaving Paris Climate Agreement: 1.00
 
 Democratic Strategies: 
-  Abortion should be Legal: 1.00
+  Taxing the Rich: 1.00
 Republican Strategies: 
-  Abortion should be illegal: 1.00
+  Tax Cuts: 1.00
 
 Democratic Strategies: 
   Affordable Healthcare: 1.00
@@ -460,39 +460,18 @@ Republican Strategies:
   Privatized Healthcare: 1.00
 
 Democratic Strategies: 
-  Taxing the Rich: 0.18
-  Joining Paris Climate Agreement: 0.82
-Republican Strategies: 
-  Tax Cuts: 0.18
-  Leaving Paris Climate Agreement: 0.82
-
-Democratic Strategies: 
-  Taxing the Rich: 0.53
-  Abortion should be Legal: 0.47
-Republican Strategies: 
-  Tax Cuts: 0.53
-  Abortion should be illegal: 0.47
-
-Democratic Strategies: 
-  Taxing the Rich: 0.24
-  Affordable Healthcare: 0.76
-Republican Strategies: 
-  Tax Cuts: 0.24
-  Privatized Healthcare: 0.76
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.83
   Abortion should be Legal: 0.17
+  Joining Paris Climate Agreement: 0.83
 Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.83
   Abortion should be illegal: 0.17
+  Leaving Paris Climate Agreement: 0.83
 
 Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.58
-  Affordable Healthcare: 0.42
+  Abortion should be Legal: 0.47
+  Taxing the Rich: 0.53
 Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.58
-  Privatized Healthcare: 0.42
+  Abortion should be illegal: 0.47
+  Tax Cuts: 0.53
 
 Democratic Strategies: 
   Abortion should be Legal: 0.22
@@ -502,57 +481,78 @@ Republican Strategies:
   Privatized Healthcare: 0.78
 
 Democratic Strategies: 
-  Taxing the Rich: 0.16
-  Joining Paris Climate Agreement: 0.70
+  Joining Paris Climate Agreement: 0.82
+  Taxing the Rich: 0.18
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.82
+  Tax Cuts: 0.18
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 0.58
+  Affordable Healthcare: 0.42
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.58
+  Privatized Healthcare: 0.42
+
+Democratic Strategies: 
+  Taxing the Rich: 0.24
+  Affordable Healthcare: 0.76
+Republican Strategies: 
+  Tax Cuts: 0.24
+  Privatized Healthcare: 0.76
+
+Democratic Strategies: 
   Abortion should be Legal: 0.14
+  Joining Paris Climate Agreement: 0.70
+  Taxing the Rich: 0.16
 Republican Strategies: 
-  Tax Cuts: 0.16
-  Leaving Paris Climate Agreement: 0.70
   Abortion should be illegal: 0.14
+  Leaving Paris Climate Agreement: 0.70
+  Tax Cuts: 0.16
 
 Democratic Strategies: 
-  Taxing the Rich: 0.12
-  Joining Paris Climate Agreement: 0.51
-  Affordable Healthcare: 0.37
-Republican Strategies: 
-  Tax Cuts: 0.12
-  Leaving Paris Climate Agreement: 0.51
-  Privatized Healthcare: 0.37
-
-Democratic Strategies: 
-  Taxing the Rich: 0.20
-  Abortion should be Legal: 0.17
-  Affordable Healthcare: 0.63
-Republican Strategies: 
-  Tax Cuts: 0.20
-  Abortion should be illegal: 0.17
-  Privatized Healthcare: 0.63
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.52
   Abortion should be Legal: 0.10
+  Joining Paris Climate Agreement: 0.52
   Affordable Healthcare: 0.38
 Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.52
   Abortion should be illegal: 0.10
+  Leaving Paris Climate Agreement: 0.52
   Privatized Healthcare: 0.38
 
 Democratic Strategies: 
-  Taxing the Rich: 0.11
-  Joining Paris Climate Agreement: 0.47
+  Abortion should be Legal: 0.17
+  Taxing the Rich: 0.20
+  Affordable Healthcare: 0.63
+Republican Strategies: 
+  Abortion should be illegal: 0.17
+  Tax Cuts: 0.20
+  Privatized Healthcare: 0.63
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 0.51
+  Taxing the Rich: 0.12
+  Affordable Healthcare: 0.37
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.51
+  Tax Cuts: 0.12
+  Privatized Healthcare: 0.37
+
+Democratic Strategies: 
   Abortion should be Legal: 0.09
+  Joining Paris Climate Agreement: 0.47
+  Taxing the Rich: 0.11
   Affordable Healthcare: 0.34
 Republican Strategies: 
-  Tax Cuts: 0.11
-  Leaving Paris Climate Agreement: 0.47
   Abortion should be illegal: 0.09
+  Leaving Paris Climate Agreement: 0.47
+  Tax Cuts: 0.11
   Privatized Healthcare: 0.34
 
 State: MI
 Democratic Strategies: 
-  Taxing the Rich: 1.00
+  Abortion should be Legal: 1.00
 Republican Strategies: 
-  Tax Cuts: 1.00
+  Abortion should be illegal: 1.00
 
 Democratic Strategies: 
   Joining Paris Climate Agreement: 1.00
@@ -560,9 +560,9 @@ Republican Strategies:
   Leaving Paris Climate Agreement: 1.00
 
 Democratic Strategies: 
-  Abortion should be Legal: 1.00
+  Taxing the Rich: 1.00
 Republican Strategies: 
-  Abortion should be illegal: 1.00
+  Tax Cuts: 1.00
 
 Democratic Strategies: 
   Affordable Healthcare: 1.00
@@ -570,39 +570,18 @@ Republican Strategies:
   Privatized Healthcare: 1.00
 
 Democratic Strategies: 
-  Taxing the Rich: 0.31
-  Joining Paris Climate Agreement: 0.69
-Republican Strategies: 
-  Tax Cuts: 0.31
-  Leaving Paris Climate Agreement: 0.69
-
-Democratic Strategies: 
-  Taxing the Rich: 0.57
-  Abortion should be Legal: 0.43
-Republican Strategies: 
-  Tax Cuts: 0.57
-  Abortion should be illegal: 0.43
-
-Democratic Strategies: 
-  Taxing the Rich: 0.30
-  Affordable Healthcare: 0.70
-Republican Strategies: 
-  Tax Cuts: 0.30
-  Privatized Healthcare: 0.70
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.75
   Abortion should be Legal: 0.25
+  Joining Paris Climate Agreement: 0.75
 Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.75
   Abortion should be illegal: 0.25
+  Leaving Paris Climate Agreement: 0.75
 
 Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.49
-  Affordable Healthcare: 0.51
+  Abortion should be Legal: 0.43
+  Taxing the Rich: 0.57
 Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.49
-  Privatized Healthcare: 0.51
+  Abortion should be illegal: 0.43
+  Tax Cuts: 0.57
 
 Democratic Strategies: 
   Abortion should be Legal: 0.24
@@ -612,430 +591,11 @@ Republican Strategies:
   Privatized Healthcare: 0.76
 
 Democratic Strategies: 
-  Taxing the Rich: 0.25
-  Joining Paris Climate Agreement: 0.56
-  Abortion should be Legal: 0.19
-Republican Strategies: 
-  Tax Cuts: 0.25
-  Leaving Paris Climate Agreement: 0.56
-  Abortion should be illegal: 0.19
-
-Democratic Strategies: 
-  Taxing the Rich: 0.18
-  Joining Paris Climate Agreement: 0.40
-  Affordable Healthcare: 0.42
-Republican Strategies: 
-  Tax Cuts: 0.18
-  Leaving Paris Climate Agreement: 0.40
-  Privatized Healthcare: 0.42
-
-Democratic Strategies: 
-  Taxing the Rich: 0.25
-  Abortion should be Legal: 0.18
-  Affordable Healthcare: 0.57
-Republican Strategies: 
-  Tax Cuts: 0.25
-  Abortion should be illegal: 0.18
-  Privatized Healthcare: 0.57
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.42
-  Abortion should be Legal: 0.14
-  Affordable Healthcare: 0.44
-Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.42
-  Abortion should be illegal: 0.14
-  Privatized Healthcare: 0.44
-
-Democratic Strategies: 
-  Taxing the Rich: 0.16
-  Joining Paris Climate Agreement: 0.35
-  Abortion should be Legal: 0.12
-  Affordable Healthcare: 0.37
-Republican Strategies: 
-  Tax Cuts: 0.16
-  Leaving Paris Climate Agreement: 0.35
-  Abortion should be illegal: 0.12
-  Privatized Healthcare: 0.37
-
-State: NM
-Democratic Strategies: 
-  Taxing the Rich: 1.00
-Republican Strategies: 
-  Tax Cuts: 1.00
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 1.00
-Republican Strategies: 
-  Leaving Paris Climate Agreement: 1.00
-
-Democratic Strategies: 
-  Abortion should be Legal: 1.00
-Republican Strategies: 
-  Abortion should be illegal: 1.00
-
-Democratic Strategies: 
-  Affordable Healthcare: 1.00
-Republican Strategies: 
-  Privatized Healthcare: 1.00
-
-Democratic Strategies: 
-  Taxing the Rich: 0.78
-  Joining Paris Climate Agreement: 0.22
-Republican Strategies: 
-  Tax Cuts: 0.78
-  Leaving Paris Climate Agreement: 0.22
-
-Democratic Strategies: 
-  Taxing the Rich: 0.92
-  Abortion should be Legal: 0.08
-Republican Strategies: 
-  Tax Cuts: 0.92
-  Abortion should be illegal: 0.08
-
-Democratic Strategies: 
-  Taxing the Rich: 0.89
-  Affordable Healthcare: 0.11
-Republican Strategies: 
-  Tax Cuts: 0.89
-  Privatized Healthcare: 0.11
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.76
-  Abortion should be Legal: 0.24
-Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.76
-  Abortion should be illegal: 0.24
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.70
-  Affordable Healthcare: 0.30
-Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.70
-  Privatized Healthcare: 0.30
-
-Democratic Strategies: 
-  Abortion should be Legal: 0.42
-  Affordable Healthcare: 0.58
-Republican Strategies: 
-  Abortion should be illegal: 0.42
-  Privatized Healthcare: 0.58
-
-Democratic Strategies: 
-  Taxing the Rich: 0.73
-  Joining Paris Climate Agreement: 0.21
-  Abortion should be Legal: 0.07
-Republican Strategies: 
-  Tax Cuts: 0.73
-  Leaving Paris Climate Agreement: 0.21
-  Abortion should be illegal: 0.07
-
-Democratic Strategies: 
-  Taxing the Rich: 0.71
-  Joining Paris Climate Agreement: 0.20
-  Affordable Healthcare: 0.09
-Republican Strategies: 
-  Tax Cuts: 0.71
-  Leaving Paris Climate Agreement: 0.20
-  Privatized Healthcare: 0.09
-
-Democratic Strategies: 
-  Taxing the Rich: 0.82
-  Abortion should be Legal: 0.08
-  Affordable Healthcare: 0.10
-Republican Strategies: 
-  Tax Cuts: 0.82
-  Abortion should be illegal: 0.08
-  Privatized Healthcare: 0.10
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.57
-  Abortion should be Legal: 0.18
-  Affordable Healthcare: 0.25
-Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.57
-  Abortion should be illegal: 0.18
-  Privatized Healthcare: 0.25
-
-Democratic Strategies: 
-  Taxing the Rich: 0.67
-  Joining Paris Climate Agreement: 0.19
-  Abortion should be Legal: 0.06
-  Affordable Healthcare: 0.08
-Republican Strategies: 
-  Tax Cuts: 0.67
-  Leaving Paris Climate Agreement: 0.19
-  Abortion should be illegal: 0.06
-  Privatized Healthcare: 0.08
-
-State: OH
-Democratic Strategies: 
-  Taxing the Rich: 1.00
-Republican Strategies: 
-  Tax Cuts: 1.00
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 1.00
-Republican Strategies: 
-  Leaving Paris Climate Agreement: 1.00
-
-Democratic Strategies: 
-  Abortion should be Legal: 1.00
-Republican Strategies: 
-  Abortion should be illegal: 1.00
-
-Democratic Strategies: 
-  Affordable Healthcare: 1.00
-Republican Strategies: 
-  Privatized Healthcare: 1.00
-
-Democratic Strategies: 
-  Taxing the Rich: 0.25
-  Joining Paris Climate Agreement: 0.75
-Republican Strategies: 
-  Tax Cuts: 0.25
-  Leaving Paris Climate Agreement: 0.75
-
-Democratic Strategies: 
-  Taxing the Rich: 0.33
-  Abortion should be Legal: 0.67
-Republican Strategies: 
-  Tax Cuts: 0.33
-  Abortion should be illegal: 0.67
-
-Democratic Strategies: 
-  Taxing the Rich: 0.06
-  Affordable Healthcare: 0.94
-Republican Strategies: 
-  Tax Cuts: 0.06
-  Privatized Healthcare: 0.94
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.60
-  Abortion should be Legal: 0.40
-Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.60
-  Abortion should be illegal: 0.40
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.17
-  Affordable Healthcare: 0.83
-Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.17
-  Privatized Healthcare: 0.83
-
-Democratic Strategies: 
-  Abortion should be Legal: 0.12
-  Affordable Healthcare: 0.88
-Republican Strategies: 
-  Abortion should be illegal: 0.12
-  Privatized Healthcare: 0.88
-
-Democratic Strategies: 
-  Taxing the Rich: 0.17
-  Joining Paris Climate Agreement: 0.50
-  Abortion should be Legal: 0.33
-Republican Strategies: 
-  Tax Cuts: 0.17
-  Leaving Paris Climate Agreement: 0.50
-  Abortion should be illegal: 0.33
-
-Democratic Strategies: 
-  Taxing the Rich: 0.05
-  Joining Paris Climate Agreement: 0.16
-  Affordable Healthcare: 0.79
-Republican Strategies: 
-  Tax Cuts: 0.05
-  Leaving Paris Climate Agreement: 0.16
-  Privatized Healthcare: 0.79
-
-Democratic Strategies: 
-  Taxing the Rich: 0.06
-  Abortion should be Legal: 0.11
-  Affordable Healthcare: 0.83
-Republican Strategies: 
-  Tax Cuts: 0.06
-  Abortion should be illegal: 0.11
-  Privatized Healthcare: 0.83
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.15
-  Abortion should be Legal: 0.10
-  Affordable Healthcare: 0.75
-Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.15
-  Abortion should be illegal: 0.10
-  Privatized Healthcare: 0.75
-
-Democratic Strategies: 
-  Taxing the Rich: 0.05
-  Joining Paris Climate Agreement: 0.14
-  Abortion should be Legal: 0.09
-  Affordable Healthcare: 0.71
-Republican Strategies: 
-  Tax Cuts: 0.05
-  Leaving Paris Climate Agreement: 0.14
-  Abortion should be illegal: 0.09
-  Privatized Healthcare: 0.71
-
-State: PA
-Democratic Strategies: 
-  Taxing the Rich: 1.00
-Republican Strategies: 
-  Tax Cuts: 1.00
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 1.00
-Republican Strategies: 
-  Leaving Paris Climate Agreement: 1.00
-
-Democratic Strategies: 
-  Abortion should be Legal: 1.00
-Republican Strategies: 
-  Abortion should be illegal: 1.00
-
-Democratic Strategies: 
-  Affordable Healthcare: 1.00
-Republican Strategies: 
-  Privatized Healthcare: 1.00
-
-Democratic Strategies: 
-  Taxing the Rich: 0.49
-  Joining Paris Climate Agreement: 0.51
-Republican Strategies: 
-  Tax Cuts: 0.49
-  Leaving Paris Climate Agreement: 0.51
-
-Democratic Strategies: 
-  Taxing the Rich: 0.45
-  Abortion should be Legal: 0.55
-Republican Strategies: 
-  Tax Cuts: 0.45
-  Abortion should be illegal: 0.55
-
-Democratic Strategies: 
-  Taxing the Rich: 0.37
-  Affordable Healthcare: 0.63
-Republican Strategies: 
-  Tax Cuts: 0.37
-  Privatized Healthcare: 0.63
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.46
-  Abortion should be Legal: 0.54
-Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.46
-  Abortion should be illegal: 0.54
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.38
-  Affordable Healthcare: 0.62
-Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.38
-  Privatized Healthcare: 0.62
-
-Democratic Strategies: 
-  Abortion should be Legal: 0.42
-  Affordable Healthcare: 0.58
-Republican Strategies: 
-  Abortion should be illegal: 0.42
-  Privatized Healthcare: 0.58
-
-Democratic Strategies: 
+  Joining Paris Climate Agreement: 0.69
   Taxing the Rich: 0.31
-  Joining Paris Climate Agreement: 0.32
-  Abortion should be Legal: 0.37
 Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.69
   Tax Cuts: 0.31
-  Leaving Paris Climate Agreement: 0.32
-  Abortion should be illegal: 0.37
-
-Democratic Strategies: 
-  Taxing the Rich: 0.27
-  Joining Paris Climate Agreement: 0.28
-  Affordable Healthcare: 0.45
-Republican Strategies: 
-  Tax Cuts: 0.27
-  Leaving Paris Climate Agreement: 0.28
-  Privatized Healthcare: 0.45
-
-Democratic Strategies: 
-  Taxing the Rich: 0.25
-  Abortion should be Legal: 0.31
-  Affordable Healthcare: 0.43
-Republican Strategies: 
-  Tax Cuts: 0.25
-  Abortion should be illegal: 0.31
-  Privatized Healthcare: 0.43
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.26
-  Abortion should be Legal: 0.31
-  Affordable Healthcare: 0.43
-Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.26
-  Abortion should be illegal: 0.31
-  Privatized Healthcare: 0.43
-
-Democratic Strategies: 
-  Taxing the Rich: 0.20
-  Joining Paris Climate Agreement: 0.21
-  Abortion should be Legal: 0.25
-  Affordable Healthcare: 0.34
-Republican Strategies: 
-  Tax Cuts: 0.20
-  Leaving Paris Climate Agreement: 0.21
-  Abortion should be illegal: 0.25
-  Privatized Healthcare: 0.34
-
-State: WI
-Democratic Strategies: 
-  Taxing the Rich: 1.00
-Republican Strategies: 
-  Tax Cuts: 1.00
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 1.00
-Republican Strategies: 
-  Leaving Paris Climate Agreement: 1.00
-
-Democratic Strategies: 
-  Abortion should be Legal: 1.00
-Republican Strategies: 
-  Abortion should be illegal: 1.00
-
-Democratic Strategies: 
-  Affordable Healthcare: 1.00
-Republican Strategies: 
-  Privatized Healthcare: 1.00
-
-Democratic Strategies: 
-  Taxing the Rich: 0.60
-  Joining Paris Climate Agreement: 0.40
-Republican Strategies: 
-  Tax Cuts: 0.60
-  Leaving Paris Climate Agreement: 0.40
-
-Democratic Strategies: 
-  Taxing the Rich: 0.13
-  Abortion should be Legal: 0.87
-Republican Strategies: 
-  Tax Cuts: 0.13
-  Abortion should be illegal: 0.87
-
-Democratic Strategies: 
-  Taxing the Rich: 0.60
-  Affordable Healthcare: 0.40
-Republican Strategies: 
-  Tax Cuts: 0.60
-  Privatized Healthcare: 0.40
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.09
-  Abortion should be Legal: 0.91
-Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.09
-  Abortion should be illegal: 0.91
 
 Democratic Strategies: 
   Joining Paris Climate Agreement: 0.49
@@ -1045,6 +605,425 @@ Republican Strategies:
   Privatized Healthcare: 0.51
 
 Democratic Strategies: 
+  Taxing the Rich: 0.30
+  Affordable Healthcare: 0.70
+Republican Strategies: 
+  Tax Cuts: 0.30
+  Privatized Healthcare: 0.70
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.19
+  Joining Paris Climate Agreement: 0.56
+  Taxing the Rich: 0.25
+Republican Strategies: 
+  Abortion should be illegal: 0.19
+  Leaving Paris Climate Agreement: 0.56
+  Tax Cuts: 0.25
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.14
+  Joining Paris Climate Agreement: 0.42
+  Affordable Healthcare: 0.44
+Republican Strategies: 
+  Abortion should be illegal: 0.14
+  Leaving Paris Climate Agreement: 0.42
+  Privatized Healthcare: 0.44
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.18
+  Taxing the Rich: 0.25
+  Affordable Healthcare: 0.57
+Republican Strategies: 
+  Abortion should be illegal: 0.18
+  Tax Cuts: 0.25
+  Privatized Healthcare: 0.57
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 0.40
+  Taxing the Rich: 0.18
+  Affordable Healthcare: 0.42
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.40
+  Tax Cuts: 0.18
+  Privatized Healthcare: 0.42
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.12
+  Joining Paris Climate Agreement: 0.35
+  Taxing the Rich: 0.16
+  Affordable Healthcare: 0.37
+Republican Strategies: 
+  Abortion should be illegal: 0.12
+  Leaving Paris Climate Agreement: 0.35
+  Tax Cuts: 0.16
+  Privatized Healthcare: 0.37
+
+State: NM
+Democratic Strategies: 
+  Abortion should be Legal: 1.00
+Republican Strategies: 
+  Abortion should be illegal: 1.00
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 1.00
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 1.00
+
+Democratic Strategies: 
+  Taxing the Rich: 1.00
+Republican Strategies: 
+  Tax Cuts: 1.00
+
+Democratic Strategies: 
+  Affordable Healthcare: 1.00
+Republican Strategies: 
+  Privatized Healthcare: 1.00
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.24
+  Joining Paris Climate Agreement: 0.76
+Republican Strategies: 
+  Abortion should be illegal: 0.24
+  Leaving Paris Climate Agreement: 0.76
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.08
+  Taxing the Rich: 0.92
+Republican Strategies: 
+  Abortion should be illegal: 0.08
+  Tax Cuts: 0.92
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.42
+  Affordable Healthcare: 0.58
+Republican Strategies: 
+  Abortion should be illegal: 0.42
+  Privatized Healthcare: 0.58
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 0.22
+  Taxing the Rich: 0.78
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.22
+  Tax Cuts: 0.78
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 0.70
+  Affordable Healthcare: 0.30
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.70
+  Privatized Healthcare: 0.30
+
+Democratic Strategies: 
+  Taxing the Rich: 0.89
+  Affordable Healthcare: 0.11
+Republican Strategies: 
+  Tax Cuts: 0.89
+  Privatized Healthcare: 0.11
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.07
+  Joining Paris Climate Agreement: 0.21
+  Taxing the Rich: 0.73
+Republican Strategies: 
+  Abortion should be illegal: 0.07
+  Leaving Paris Climate Agreement: 0.21
+  Tax Cuts: 0.73
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.18
+  Joining Paris Climate Agreement: 0.57
+  Affordable Healthcare: 0.25
+Republican Strategies: 
+  Abortion should be illegal: 0.18
+  Leaving Paris Climate Agreement: 0.57
+  Privatized Healthcare: 0.25
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.08
+  Taxing the Rich: 0.82
+  Affordable Healthcare: 0.10
+Republican Strategies: 
+  Abortion should be illegal: 0.08
+  Tax Cuts: 0.82
+  Privatized Healthcare: 0.10
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 0.20
+  Taxing the Rich: 0.71
+  Affordable Healthcare: 0.09
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.20
+  Tax Cuts: 0.71
+  Privatized Healthcare: 0.09
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.06
+  Joining Paris Climate Agreement: 0.19
+  Taxing the Rich: 0.67
+  Affordable Healthcare: 0.08
+Republican Strategies: 
+  Abortion should be illegal: 0.06
+  Leaving Paris Climate Agreement: 0.19
+  Tax Cuts: 0.67
+  Privatized Healthcare: 0.08
+
+State: OH
+Democratic Strategies: 
+  Abortion should be Legal: 1.00
+Republican Strategies: 
+  Abortion should be illegal: 1.00
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 1.00
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 1.00
+
+Democratic Strategies: 
+  Taxing the Rich: 1.00
+Republican Strategies: 
+  Tax Cuts: 1.00
+
+Democratic Strategies: 
+  Affordable Healthcare: 1.00
+Republican Strategies: 
+  Privatized Healthcare: 1.00
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.40
+  Joining Paris Climate Agreement: 0.60
+Republican Strategies: 
+  Abortion should be illegal: 0.40
+  Leaving Paris Climate Agreement: 0.60
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.67
+  Taxing the Rich: 0.33
+Republican Strategies: 
+  Abortion should be illegal: 0.67
+  Tax Cuts: 0.33
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.12
+  Affordable Healthcare: 0.88
+Republican Strategies: 
+  Abortion should be illegal: 0.12
+  Privatized Healthcare: 0.88
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 0.75
+  Taxing the Rich: 0.25
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.75
+  Tax Cuts: 0.25
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 0.17
+  Affordable Healthcare: 0.83
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.17
+  Privatized Healthcare: 0.83
+
+Democratic Strategies: 
+  Taxing the Rich: 0.06
+  Affordable Healthcare: 0.94
+Republican Strategies: 
+  Tax Cuts: 0.06
+  Privatized Healthcare: 0.94
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.33
+  Joining Paris Climate Agreement: 0.50
+  Taxing the Rich: 0.17
+Republican Strategies: 
+  Abortion should be illegal: 0.33
+  Leaving Paris Climate Agreement: 0.50
+  Tax Cuts: 0.17
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.10
+  Joining Paris Climate Agreement: 0.15
+  Affordable Healthcare: 0.75
+Republican Strategies: 
+  Abortion should be illegal: 0.10
+  Leaving Paris Climate Agreement: 0.15
+  Privatized Healthcare: 0.75
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.11
+  Taxing the Rich: 0.06
+  Affordable Healthcare: 0.83
+Republican Strategies: 
+  Abortion should be illegal: 0.11
+  Tax Cuts: 0.06
+  Privatized Healthcare: 0.83
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 0.16
+  Taxing the Rich: 0.05
+  Affordable Healthcare: 0.79
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.16
+  Tax Cuts: 0.05
+  Privatized Healthcare: 0.79
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.09
+  Joining Paris Climate Agreement: 0.14
+  Taxing the Rich: 0.05
+  Affordable Healthcare: 0.71
+Republican Strategies: 
+  Abortion should be illegal: 0.09
+  Leaving Paris Climate Agreement: 0.14
+  Tax Cuts: 0.05
+  Privatized Healthcare: 0.71
+
+State: PA
+Democratic Strategies: 
+  Abortion should be Legal: 1.00
+Republican Strategies: 
+  Abortion should be illegal: 1.00
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 1.00
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 1.00
+
+Democratic Strategies: 
+  Taxing the Rich: 1.00
+Republican Strategies: 
+  Tax Cuts: 1.00
+
+Democratic Strategies: 
+  Affordable Healthcare: 1.00
+Republican Strategies: 
+  Privatized Healthcare: 1.00
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.54
+  Joining Paris Climate Agreement: 0.46
+Republican Strategies: 
+  Abortion should be illegal: 0.54
+  Leaving Paris Climate Agreement: 0.46
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.55
+  Taxing the Rich: 0.45
+Republican Strategies: 
+  Abortion should be illegal: 0.55
+  Tax Cuts: 0.45
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.42
+  Affordable Healthcare: 0.58
+Republican Strategies: 
+  Abortion should be illegal: 0.42
+  Privatized Healthcare: 0.58
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 0.51
+  Taxing the Rich: 0.49
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.51
+  Tax Cuts: 0.49
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 0.38
+  Affordable Healthcare: 0.62
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.38
+  Privatized Healthcare: 0.62
+
+Democratic Strategies: 
+  Taxing the Rich: 0.37
+  Affordable Healthcare: 0.63
+Republican Strategies: 
+  Tax Cuts: 0.37
+  Privatized Healthcare: 0.63
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.37
+  Joining Paris Climate Agreement: 0.32
+  Taxing the Rich: 0.31
+Republican Strategies: 
+  Abortion should be illegal: 0.37
+  Leaving Paris Climate Agreement: 0.32
+  Tax Cuts: 0.31
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.31
+  Joining Paris Climate Agreement: 0.26
+  Affordable Healthcare: 0.43
+Republican Strategies: 
+  Abortion should be illegal: 0.31
+  Leaving Paris Climate Agreement: 0.26
+  Privatized Healthcare: 0.43
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.31
+  Taxing the Rich: 0.25
+  Affordable Healthcare: 0.43
+Republican Strategies: 
+  Abortion should be illegal: 0.31
+  Tax Cuts: 0.25
+  Privatized Healthcare: 0.43
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 0.28
+  Taxing the Rich: 0.27
+  Affordable Healthcare: 0.45
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.28
+  Tax Cuts: 0.27
+  Privatized Healthcare: 0.45
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.25
+  Joining Paris Climate Agreement: 0.21
+  Taxing the Rich: 0.20
+  Affordable Healthcare: 0.34
+Republican Strategies: 
+  Abortion should be illegal: 0.25
+  Leaving Paris Climate Agreement: 0.21
+  Tax Cuts: 0.20
+  Privatized Healthcare: 0.34
+
+State: WI
+Democratic Strategies: 
+  Abortion should be Legal: 1.00
+Republican Strategies: 
+  Abortion should be illegal: 1.00
+
+Democratic Strategies: 
+  Joining Paris Climate Agreement: 1.00
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 1.00
+
+Democratic Strategies: 
+  Taxing the Rich: 1.00
+Republican Strategies: 
+  Tax Cuts: 1.00
+
+Democratic Strategies: 
+  Affordable Healthcare: 1.00
+Republican Strategies: 
+  Privatized Healthcare: 1.00
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.91
+  Joining Paris Climate Agreement: 0.09
+Republican Strategies: 
+  Abortion should be illegal: 0.91
+  Leaving Paris Climate Agreement: 0.09
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.87
+  Taxing the Rich: 0.13
+Republican Strategies: 
+  Abortion should be illegal: 0.87
+  Tax Cuts: 0.13
+
+Democratic Strategies: 
   Abortion should be Legal: 0.91
   Affordable Healthcare: 0.09
 Republican Strategies: 
@@ -1052,49 +1031,70 @@ Republican Strategies:
   Privatized Healthcare: 0.09
 
 Democratic Strategies: 
-  Taxing the Rich: 0.12
-  Joining Paris Climate Agreement: 0.08
-  Abortion should be Legal: 0.80
+  Joining Paris Climate Agreement: 0.40
+  Taxing the Rich: 0.60
 Republican Strategies: 
-  Tax Cuts: 0.12
-  Leaving Paris Climate Agreement: 0.08
-  Abortion should be illegal: 0.80
+  Leaving Paris Climate Agreement: 0.40
+  Tax Cuts: 0.60
 
 Democratic Strategies: 
-  Taxing the Rich: 0.43
+  Joining Paris Climate Agreement: 0.49
+  Affordable Healthcare: 0.51
+Republican Strategies: 
+  Leaving Paris Climate Agreement: 0.49
+  Privatized Healthcare: 0.51
+
+Democratic Strategies: 
+  Taxing the Rich: 0.60
+  Affordable Healthcare: 0.40
+Republican Strategies: 
+  Tax Cuts: 0.60
+  Privatized Healthcare: 0.40
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.80
+  Joining Paris Climate Agreement: 0.08
+  Taxing the Rich: 0.12
+Republican Strategies: 
+  Abortion should be illegal: 0.80
+  Leaving Paris Climate Agreement: 0.08
+  Tax Cuts: 0.12
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.84
+  Joining Paris Climate Agreement: 0.08
+  Affordable Healthcare: 0.08
+Republican Strategies: 
+  Abortion should be illegal: 0.84
+  Leaving Paris Climate Agreement: 0.08
+  Privatized Healthcare: 0.08
+
+Democratic Strategies: 
+  Abortion should be Legal: 0.80
+  Taxing the Rich: 0.12
+  Affordable Healthcare: 0.08
+Republican Strategies: 
+  Abortion should be illegal: 0.80
+  Tax Cuts: 0.12
+  Privatized Healthcare: 0.08
+
+Democratic Strategies: 
   Joining Paris Climate Agreement: 0.28
+  Taxing the Rich: 0.43
   Affordable Healthcare: 0.29
 Republican Strategies: 
-  Tax Cuts: 0.43
   Leaving Paris Climate Agreement: 0.28
+  Tax Cuts: 0.43
   Privatized Healthcare: 0.29
 
 Democratic Strategies: 
-  Taxing the Rich: 0.12
-  Abortion should be Legal: 0.80
-  Affordable Healthcare: 0.08
-Republican Strategies: 
-  Tax Cuts: 0.12
-  Abortion should be illegal: 0.80
-  Privatized Healthcare: 0.08
-
-Democratic Strategies: 
-  Joining Paris Climate Agreement: 0.08
-  Abortion should be Legal: 0.84
-  Affordable Healthcare: 0.08
-Republican Strategies: 
-  Leaving Paris Climate Agreement: 0.08
-  Abortion should be illegal: 0.84
-  Privatized Healthcare: 0.08
-
-Democratic Strategies: 
-  Taxing the Rich: 0.11
-  Joining Paris Climate Agreement: 0.07
   Abortion should be Legal: 0.74
+  Joining Paris Climate Agreement: 0.07
+  Taxing the Rich: 0.11
   Affordable Healthcare: 0.07
 Republican Strategies: 
-  Tax Cuts: 0.11
-  Leaving Paris Climate Agreement: 0.07
   Abortion should be illegal: 0.74
+  Leaving Paris Climate Agreement: 0.07
+  Tax Cuts: 0.11
   Privatized Healthcare: 0.07
 

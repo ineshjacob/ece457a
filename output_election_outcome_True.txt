@@ -1,0 +1,618 @@
+Results for the state co ---------------------------------------------------
+
+There are no strict dominant strategies
+There is a weak dominant strategy:
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Abortion should be illegal
+Dem results: 1
+Rep results: 0
+
+Nash Equilibria:
+
+Nash Equilibrium 1: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Abortion should be illegal
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 2: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Leaving Paris Climate Agreement
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 3: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Tax Cuts
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 4: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Privatized Healthcare
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 5: 
+Democrates should do: Taxing the Rich
+Republicans should do: Abortion should be illegal
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 6: 
+Democrates should do: Taxing the Rich
+Republicans should do: Leaving Paris Climate Agreement
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 7: 
+Democrates should do: Taxing the Rich
+Republicans should do: Tax Cuts
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 8: 
+Democrates should do: Taxing the Rich
+Republicans should do: Privatized Healthcare
+Dem results: 1
+Rep results: 0
+
+
+Results for the state fl ---------------------------------------------------
+
+There are no strict dominant strategies
+There is a weak dominant strategy:
+Democrates should do: Abortion should be Legal
+Republicans should do: Tax Cuts
+Dem results: 0
+Rep results: 1
+
+Nash Equilibria:
+
+Nash Equilibrium 1: 
+Democrates should do: Abortion should be Legal
+Republicans should do: Tax Cuts
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 2: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Tax Cuts
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 3: 
+Democrates should do: Taxing the Rich
+Republicans should do: Tax Cuts
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 4: 
+Democrates should do: Affordable Healthcare
+Republicans should do: Tax Cuts
+Dem results: 0
+Rep results: 1
+
+
+Results for the state ga ---------------------------------------------------
+
+There are no strict dominant strategies
+There is a weak dominant strategy:
+Democrates should do: Abortion should be Legal
+Republicans should do: Abortion should be illegal
+Dem results: 1
+Rep results: 0
+
+Nash Equilibria:
+
+Nash Equilibrium 1: 
+Democrates should do: Abortion should be Legal
+Republicans should do: Abortion should be illegal
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 2: 
+Democrates should do: Abortion should be Legal
+Republicans should do: Leaving Paris Climate Agreement
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 3: 
+Democrates should do: Abortion should be Legal
+Republicans should do: Tax Cuts
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 4: 
+Democrates should do: Abortion should be Legal
+Republicans should do: Privatized Healthcare
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 5: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Abortion should be illegal
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 6: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Leaving Paris Climate Agreement
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 7: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Tax Cuts
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 8: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Privatized Healthcare
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 9: 
+Democrates should do: Affordable Healthcare
+Republicans should do: Abortion should be illegal
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 10: 
+Democrates should do: Affordable Healthcare
+Republicans should do: Leaving Paris Climate Agreement
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 11: 
+Democrates should do: Affordable Healthcare
+Republicans should do: Tax Cuts
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 12: 
+Democrates should do: Affordable Healthcare
+Republicans should do: Privatized Healthcare
+Dem results: 1
+Rep results: 0
+
+
+Results for the state ia ---------------------------------------------------
+
+There are no strict dominant strategies
+There is a weak dominant strategy:
+Democrates should do: Taxing the Rich
+Republicans should do: Abortion should be illegal
+Dem results: 0
+Rep results: 1
+
+Nash Equilibria:
+
+Nash Equilibrium 1: 
+Democrates should do: Affordable Healthcare
+Republicans should do: Abortion should be illegal
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 2: 
+Democrates should do: Affordable Healthcare
+Republicans should do: Leaving Paris Climate Agreement
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 3: 
+Democrates should do: Affordable Healthcare
+Republicans should do: Tax Cuts
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 4: 
+Democrates should do: Affordable Healthcare
+Republicans should do: Privatized Healthcare
+Dem results: 1
+Rep results: 0
+
+
+Results for the state la ---------------------------------------------------
+
+There are no strict dominant strategies
+There is a weak dominant strategy:
+Democrates should do: Taxing the Rich
+Republicans should do: Abortion should be illegal
+Dem results: 0
+Rep results: 1
+
+Nash Equilibria:
+
+Nash Equilibrium 1: 
+Democrates should do: Abortion should be Legal
+Republicans should do: Abortion should be illegal
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 2: 
+Democrates should do: Abortion should be Legal
+Republicans should do: Leaving Paris Climate Agreement
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 3: 
+Democrates should do: Abortion should be Legal
+Republicans should do: Privatized Healthcare
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 4: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Abortion should be illegal
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 5: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Leaving Paris Climate Agreement
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 6: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Privatized Healthcare
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 7: 
+Democrates should do: Taxing the Rich
+Republicans should do: Abortion should be illegal
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 8: 
+Democrates should do: Taxing the Rich
+Republicans should do: Leaving Paris Climate Agreement
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 9: 
+Democrates should do: Taxing the Rich
+Republicans should do: Privatized Healthcare
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 10: 
+Democrates should do: Affordable Healthcare
+Republicans should do: Abortion should be illegal
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 11: 
+Democrates should do: Affordable Healthcare
+Republicans should do: Leaving Paris Climate Agreement
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 12: 
+Democrates should do: Affordable Healthcare
+Republicans should do: Privatized Healthcare
+Dem results: 0
+Rep results: 1
+
+
+Results for the state mi ---------------------------------------------------
+
+There are no strict dominant strategies
+There is a weak dominant strategy:
+Democrates should do: Abortion should be Legal
+Republicans should do: Abortion should be illegal
+Dem results: 1
+Rep results: 0
+
+Nash Equilibria:
+
+Nash Equilibrium 1: 
+Democrates should do: Abortion should be Legal
+Republicans should do: Abortion should be illegal
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 2: 
+Democrates should do: Abortion should be Legal
+Republicans should do: Leaving Paris Climate Agreement
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 3: 
+Democrates should do: Abortion should be Legal
+Republicans should do: Tax Cuts
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 4: 
+Democrates should do: Abortion should be Legal
+Republicans should do: Privatized Healthcare
+Dem results: 1
+Rep results: 0
+
+
+Results for the state nm ---------------------------------------------------
+
+There are no strict dominant strategies
+There is a weak dominant strategy:
+Democrates should do: Taxing the Rich
+Republicans should do: Abortion should be illegal
+Dem results: 1
+Rep results: 0
+
+Nash Equilibria:
+
+Nash Equilibrium 1: 
+Democrates should do: Taxing the Rich
+Republicans should do: Abortion should be illegal
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 2: 
+Democrates should do: Taxing the Rich
+Republicans should do: Leaving Paris Climate Agreement
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 3: 
+Democrates should do: Taxing the Rich
+Republicans should do: Tax Cuts
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 4: 
+Democrates should do: Taxing the Rich
+Republicans should do: Privatized Healthcare
+Dem results: 1
+Rep results: 0
+
+
+Results for the state oh ---------------------------------------------------
+
+There are no strict dominant strategies
+There is a weak dominant strategy:
+Democrates should do: Abortion should be Legal
+Republicans should do: Abortion should be illegal
+Dem results: 0
+Rep results: 1
+
+Nash Equilibria:
+
+Nash Equilibrium 1: 
+Democrates should do: Abortion should be Legal
+Republicans should do: Abortion should be illegal
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 2: 
+Democrates should do: Abortion should be Legal
+Republicans should do: Leaving Paris Climate Agreement
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 3: 
+Democrates should do: Abortion should be Legal
+Republicans should do: Tax Cuts
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 4: 
+Democrates should do: Abortion should be Legal
+Republicans should do: Privatized Healthcare
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 5: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Abortion should be illegal
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 6: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Leaving Paris Climate Agreement
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 7: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Tax Cuts
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 8: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Privatized Healthcare
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 9: 
+Democrates should do: Taxing the Rich
+Republicans should do: Abortion should be illegal
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 10: 
+Democrates should do: Taxing the Rich
+Republicans should do: Leaving Paris Climate Agreement
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 11: 
+Democrates should do: Taxing the Rich
+Republicans should do: Tax Cuts
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 12: 
+Democrates should do: Taxing the Rich
+Republicans should do: Privatized Healthcare
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 13: 
+Democrates should do: Affordable Healthcare
+Republicans should do: Abortion should be illegal
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 14: 
+Democrates should do: Affordable Healthcare
+Republicans should do: Leaving Paris Climate Agreement
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 15: 
+Democrates should do: Affordable Healthcare
+Republicans should do: Tax Cuts
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 16: 
+Democrates should do: Affordable Healthcare
+Republicans should do: Privatized Healthcare
+Dem results: 0
+Rep results: 1
+
+
+Results for the state pa ---------------------------------------------------
+
+There are no strict dominant strategies
+There is a weak dominant strategy:
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Abortion should be illegal
+Dem results: 1
+Rep results: 0
+
+Nash Equilibria:
+
+Nash Equilibrium 1: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Abortion should be illegal
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 2: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Leaving Paris Climate Agreement
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 3: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Tax Cuts
+Dem results: 1
+Rep results: 0
+
+Nash Equilibrium 4: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Privatized Healthcare
+Dem results: 1
+Rep results: 0
+
+
+Results for the state wi ---------------------------------------------------
+
+There are no strict dominant strategies
+There is a weak dominant strategy:
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Abortion should be illegal
+Dem results: 0
+Rep results: 1
+
+Nash Equilibria:
+
+Nash Equilibrium 1: 
+Democrates should do: Abortion should be Legal
+Republicans should do: Abortion should be illegal
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 2: 
+Democrates should do: Joining Paris Climate Agreement
+Republicans should do: Abortion should be illegal
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 3: 
+Democrates should do: Taxing the Rich
+Republicans should do: Abortion should be illegal
+Dem results: 0
+Rep results: 1
+
+Nash Equilibrium 4: 
+Democrates should do: Affordable Healthcare
+Republicans should do: Abortion should be illegal
+Dem results: 0
+Rep results: 1
+
+
+
+
+***********************
+
+Raw Results
+
+
+
+Results for the state co :
+
+[[[0, 1, 1, 0], [1, 1, 1, 1], [1, 1, 1, 1], [0, 1, 1, 0]], [[1, 0, 0, 1], [0, 0, 0, 0], [0, 0, 0, 0], [1, 0, 0, 1]]]
+
+
+
+Results for the state fl :
+
+[[[1, 1, 0, 1], [1, 1, 0, 1], [0, 0, 0, 0], [1, 1, 0, 1]], [[0, 0, 1, 0], [0, 0, 1, 0], [1, 1, 1, 1], [0, 0, 1, 0]]]
+
+
+
+Results for the state ga :
+
+[[[1, 1, 1, 1], [1, 1, 1, 1], [1, 1, 0, 1], [1, 1, 1, 1]], [[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 1, 0], [0, 0, 0, 0]]]
+
+
+
+Results for the state ia :
+
+[[[0, 0, 0, 1], [0, 0, 1, 1], [0, 1, 1, 1], [1, 1, 1, 1]], [[1, 1, 1, 0], [1, 1, 0, 0], [1, 0, 0, 0], [0, 0, 0, 0]]]
+
+
+
+Results for the state la :
+
+[[[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 1, 0], [0, 0, 0, 0]], [[1, 1, 1, 1], [1, 1, 1, 1], [1, 1, 0, 1], [1, 1, 1, 1]]]
+
+
+
+Results for the state mi :
+
+[[[1, 1, 1, 1], [1, 0, 0, 0], [1, 0, 0, 0], [1, 0, 0, 0]], [[0, 0, 0, 0], [0, 1, 1, 1], [0, 1, 1, 1], [0, 1, 1, 1]]]
+
+
+
+Results for the state nm :
+
+[[[1, 0, 1, 0], [0, 0, 1, 0], [1, 1, 1, 1], [0, 0, 1, 0]], [[0, 1, 0, 1], [1, 1, 0, 1], [0, 0, 0, 0], [1, 1, 0, 1]]]
+
+
+
+Results for the state oh :
+
+[[[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]], [[1, 1, 1, 1], [1, 1, 1, 1], [1, 1, 1, 1], [1, 1, 1, 1]]]
+
+
+
+Results for the state pa :
+
+[[[1, 1, 0, 1], [1, 1, 1, 1], [0, 1, 0, 0], [1, 1, 0, 1]], [[0, 0, 1, 0], [0, 0, 0, 0], [1, 0, 1, 1], [0, 0, 1, 0]]]
+
+
+
+Results for the state wi :
+
+[[[0, 0, 0, 0], [0, 1, 1, 1], [0, 1, 1, 1], [0, 1, 1, 1]], [[1, 1, 1, 1], [1, 0, 0, 0], [1, 0, 0, 0], [1, 0, 0, 0]]]
+
