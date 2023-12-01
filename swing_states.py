@@ -14,18 +14,18 @@ def calculate_margin_of_victory(group):
     return margin
 
 
-grouped = presidential_data.groupby(["year", "state"])
+grouped = presidential_data.groupby(["year", "state_po"])
 margins = grouped.apply(calculate_margin_of_victory).reset_index(name="margin")
 
 winning_party = presidential_data.loc[
-    presidential_data.groupby(["year", "state"])["candidatevotes"].idxmax()
+    presidential_data.groupby(["year", "state_po"])["candidatevotes"].idxmax()
 ]
 margins = margins.merge(
-    winning_party[["year", "state", "party_simplified"]], on=["year", "state"]
+    winning_party[["year", "state_po", "party_simplified"]], on=["year", "state_po"]
 )
 
 swing_states = {}
-for (year, state), group in margins.groupby(["year", "state"]):
+for (year, state), group in margins.groupby(["year", "state_po"]):
     if state not in swing_states:
         swing_states[state] = {
             "party_changes": 0,

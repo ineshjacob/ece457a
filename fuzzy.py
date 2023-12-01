@@ -25,11 +25,11 @@ def get_data():
   s_code=df_abort['state'].values
   s_name=df_ed['State'].values
   s_abort=df_abort['Average Abortion Rate'].values
-  s_ed=df_ed['Total Estimate'].values
+  s_ed=df_ed['DegreePerCapita'].values
   s_gdp=df_gdp['Average GDP'].values
   s_health=[]
   for state in s_name:
-    spending=df_health[df_health['state']==state]['Average Spending'].values[0]
+    spending=df_health[df_health['State']==state]['Average Spending'].values[0]
     s_health.append(spending)
   s_health=np.array(s_health)
 
