@@ -21,15 +21,15 @@ Candidates of a political party require a method to predict which campaign polic
 2. Fuzzy logic to create the payoff matrices for each policy decision per state.
 3. Game theory to find all dominant strateges and nash equilibria per swing state 
 
-## Getting Started
-
-
 ## Prerequisites
-
-- Python 3
+1. Python 3.x
+2. Libraries used in the import statements.
 
 ## Installation 
-1. Clone the Repositiory
+1. Clone the Repositiory.
+2. Run the statistic_scripts .py files to produce the processed_data folder containing the CSVs.
+3. Run the fuzzy.py and gametheory_v2.py files.
+4. View the results in the generated txt files.
 
 ## Acknowledgment
 The making of this project would only be possible with the teachings, lecture material and code inspired by Professor Benyamin Ghojogh.
