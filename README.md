@@ -2,6 +2,9 @@
 
 **Authors:** Danick Carrier, Youssef Abadeer, Ria Patel, Inesh Jacob, Rodrigo Tiscareno, Myurah Senthilnathan
 
+## Summary
+This project introduces an algorithm to predict strategic policy positions for Democratic and Republican candidates in essential swing states. The algorithm focuses on stances on key issues including healthcare, abortion, taxes, and climate, with the objective of improving candidates' electoral performance in these critical battlegrounds.
+
 ## Introduction
 In the intricate landscape of American politics, swing states play a pivotal role in determining the outcome of presidential elections. These states, characterized by their fluctuating political allegiances, present a unique challenge for political candidates: the need to tailor their campaign strategies to a diverse and often unpredictable electorate. This paper introduces a computational algorithm that aims to address this challenge. By predicting the most effective campaign policies for Democratic and Republican candidates in these crucial battleground states, the algorithm seeks to enhance the strategic decision-making process in political campaigns. Leveraging the principles of game theory and fuzzy logic, it utilizes state-specific demographic data, such as GDP, education levels, religious preferences, and age demographics, to forecast the impact of various campaign policies on voter preferences.
 
@@ -10,9 +13,6 @@ The relevance of this research is highlighted by the changing dynamics of Americ
 ## Problem Statement
 Candidates of a political party require a method to predict which campaign policy will be most effective in specific swing states to increase their probability of winning an upcoming election.
 
-## Summary
-
-
 ## Algorithms Used
 1. Scripts to understand and analyze the political landscape of each swing state based on pre-existing datasets. This was done to predict policy decisions and the corresponding payoffs regarding taxes, climate change, healthcare, and abortion.
 2. Fuzzy logic to create the payoff matrices for each policy decision per state.
@@ -20,7 +20,13 @@ Candidates of a political party require a method to predict which campaign polic
 
 ## Getting Started
 
+
 ## Prerequisites
 
 - Python 3
 
+## Installation 
+1. Clone the Repositiory
+
+## Acknowledgment
+The making of this project would only be possible with the teachings, lecture material and code inspired by Professor Benyamin Ghojogh.
