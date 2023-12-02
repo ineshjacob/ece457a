@@ -2,6 +2,9 @@
 
 **Authors:** Danick Carrier, Youssef Abadeer, Ria Patel, Inesh Jacob, Rodrigo Tiscareno, Myurah Senthilnathan
 
+## Paper
+[Fuzzy Logic and Game Theory Paper for US Swing States](https://www.overleaf.com/read/pnmbprpsqxpc#2f15b4)
+
 ## Summary
 This project introduces an algorithm to predict strategic policy positions for Democratic and Republican candidates in essential swing states. The algorithm focuses on stances on key issues including healthcare, abortion, taxes, and climate, with the objective of improving candidates' electoral performance in these critical battlegrounds.
 
